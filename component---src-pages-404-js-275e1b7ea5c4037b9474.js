@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkznamenia=self.webpackChunkznamenia||[]).push([[883],{429:function(e,t,n){n.r(t),n.d(t,{Head:function(){return u},default:function(){return r}});var a=n(7294);function r(){return a.createElement(a.Fragment,null,a.createElement("h1",{className:"my-12 text-center text-9xl"},"404"),a.createElement("p",{className:"my-12 text-center text-xl"},"Prepáčte ale táto stránka neexistuje."))}function u(){return a.createElement("title",null,"404 stránka neexistuje")}}}]);
-//# sourceMappingURL=component---src-pages-404-js-275e1b7ea5c4037b9474.js.map
